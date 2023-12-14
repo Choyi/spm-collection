@@ -1,0 +1,339 @@
+{
+  "formatVersion" : "1.0",
+  "generatedAt" : "2022-07-13T10:03:39Z",
+  "generatedBy" : {
+    "name" : "zhuoyi"
+  },
+  "keywords" : [
+    "dongjia"
+  ],
+  "name" : "Dongjia swift packages",
+  "overview" : "This collection contains the our favorite Swift packages.",
+  "packages" : [
+    {
+      "url" : "git@code.kaipao.cc:ios-team/third-pods-source/Alamofire.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.1",
+          "manifests" : {
+            "5.1" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "macos",
+                  "version" : "10.12"
+                },
+                {
+                  "name" : "ios",
+                  "version" : "10.0"
+                },
+                {
+                  "name" : "tvos",
+                  "version" : "10.0"
+                },
+                {
+                  "name" : "watchos",
+                  "version" : "3.0"
+                }
+              ],
+              "packageName" : "Alamofire",
+              "products" : [
+                {
+                  "name" : "Alamofire",
+                  "targets" : [
+                    "Alamofire"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "Alamofire",
+                  "name" : "Alamofire"
+                }
+              ],
+              "toolsVersion" : "5.1"
+            }
+          },
+          "version" : "5.4.3"
+        },
+        {
+          "defaultToolsVersion" : "5.1",
+          "manifests" : {
+            "5.1" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "macos",
+                  "version" : "10.12"
+                },
+                {
+                  "name" : "ios",
+                  "version" : "10.0"
+                },
+                {
+                  "name" : "tvos",
+                  "version" : "10.0"
+                },
+                {
+                  "name" : "watchos",
+                  "version" : "3.0"
+                }
+              ],
+              "packageName" : "Alamofire",
+              "products" : [
+                {
+                  "name" : "Alamofire",
+                  "targets" : [
+                    "Alamofire"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "Alamofire",
+                  "name" : "Alamofire"
+                }
+              ],
+              "toolsVersion" : "5.1"
+            }
+          },
+          "version" : "5.4.2"
+        },
+        {
+          "defaultToolsVersion" : "5.1",
+          "manifests" : {
+            "5.1" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "macos",
+                  "version" : "10.12"
+                },
+                {
+                  "name" : "ios",
+                  "version" : "10.0"
+                },
+                {
+                  "name" : "tvos",
+                  "version" : "10.0"
+                },
+                {
+                  "name" : "watchos",
+                  "version" : "3.0"
+                }
+              ],
+              "packageName" : "Alamofire",
+              "products" : [
+                {
+                  "name" : "Alamofire",
+                  "targets" : [
+                    "Alamofire"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "Alamofire",
+                  "name" : "Alamofire"
+                }
+              ],
+              "toolsVersion" : "5.1"
+            }
+          },
+          "version" : "5.4.1"
+        },
+        {
+          "defaultToolsVersion" : "5.0",
+          "manifests" : {
+            "5.0" : {
+              "packageName" : "Alamofire",
+              "products" : [
+                {
+                  "name" : "Alamofire",
+                  "targets" : [
+                    "Alamofire"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "Alamofire",
+                  "name" : "Alamofire"
+                }
+              ],
+              "toolsVersion" : "5.0"
+            }
+          },
+          "version" : "4.9.1"
+        },
+        {
+          "defaultToolsVersion" : "5.0",
+          "manifests" : {
+            "5.0" : {
+              "packageName" : "Alamofire",
+              "products" : [
+                {
+                  "name" : "Alamofire",
+                  "targets" : [
+                    "Alamofire"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "Alamofire",
+                  "name" : "Alamofire"
+                }
+              ],
+              "toolsVersion" : "5.0"
+            }
+          },
+          "version" : "4.9.0"
+        },
+        {
+          "defaultToolsVersion" : "4.2",
+          "manifests" : {
+            "4.2" : {
+              "packageName" : "Alamofire",
+              "products" : [
+                {
+                  "name" : "Alamofire",
+                  "targets" : [
+                    "Alamofire"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "Alamofire",
+                  "name" : "Alamofire"
+                }
+              ],
+              "toolsVersion" : "4.2"
+            }
+          },
+          "version" : "4.8.2"
+        }
+      ]
+    },
+    {
+      "url" : "git@code.kaipao.cc:ios-team/third-pods-source/CocoaAsyncSocket.git",
+      "versions" : [
+        {
+          "defaultToolsVersion" : "5.1",
+          "manifests" : {
+            "5.1" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "9.0"
+                },
+                {
+                  "name" : "macos",
+                  "version" : "10.10"
+                },
+                {
+                  "name" : "tvos",
+                  "version" : "9.0"
+                }
+              ],
+              "packageName" : "CocoaAsyncSocket",
+              "products" : [
+                {
+                  "name" : "CocoaAsyncSocket",
+                  "targets" : [
+                    "CocoaAsyncSocket"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "CocoaAsyncSocket",
+                  "name" : "CocoaAsyncSocket"
+                }
+              ],
+              "toolsVersion" : "5.1"
+            }
+          },
+          "version" : "7.6.5"
+        },
+        {
+          "defaultToolsVersion" : "5.1",
+          "manifests" : {
+            "5.1" : {
+              "minimumPlatformVersions" : [
+                {
+                  "name" : "ios",
+                  "version" : "8.0"
+                },
+                {
+                  "name" : "macos",
+                  "version" : "10.10"
+                },
+                {
+                  "name" : "tvos",
+                  "version" : "9.0"
+                }
+              ],
+              "packageName" : "CocoaAsyncSocket",
+              "products" : [
+                {
+                  "name" : "CocoaAsyncSocket",
+                  "targets" : [
+                    "CocoaAsyncSocket"
+                  ],
+                  "type" : {
+                    "library" : [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets" : [
+                {
+                  "moduleName" : "CocoaAsyncSocket",
+                  "name" : "CocoaAsyncSocket"
+                }
+              ],
+              "toolsVersion" : "5.1"
+            }
+          },
+          "version" : "7.6.4"
+        }
+      ]
+    }
+  ]
+}
+
